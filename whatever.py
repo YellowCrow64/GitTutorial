@@ -1,3 +1,3 @@
 def function():
-    return 'Hello World!'
-function
+    print"Hello World Test"
+function()
